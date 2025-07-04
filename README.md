@@ -16,6 +16,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nazca13&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yn5e5rl5evy5yoxan6fy2w25fe&unique={true|1|on|yes})
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazca13/Nazca13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazca13/Nazca13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nazca13/Nazca13/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Nazca13/Nazca13/output/snake.svg" alt="Snake animation" />
+
+###
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/NazcaNokaze) 
 
